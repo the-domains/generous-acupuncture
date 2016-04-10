@@ -2,12 +2,13 @@ name: Generous Acupuncture
 favicon: null
 layout_spectrum: 0.6893369886092842
 typography_spectrum: 0.6623839852400124
+title: Generous Acupuncture
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76234426-1
   facebook: null
   twitter: null
 opengraph:
