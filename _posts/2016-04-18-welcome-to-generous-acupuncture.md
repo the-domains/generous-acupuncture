@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Charles@GenerousAcupuncture.com253.844.0568Call or text to book an appointment,or click this link:\_https://www.yellowschedule.com/booking/generous_acupuncture"
-datePublished: '2016-04-18T01:23:45.975Z'
-dateModified: '2016-04-18T01:23:16.373Z'
+datePublished: '2016-04-18T01:32:28.420Z'
+dateModified: '2016-04-18T01:28:15.774Z'
 title: 'Welcome to Generous Acupuncture!'
 author: []
 sourcePath: _posts/2016-04-18-welcome-to-generous-acupuncture.md
