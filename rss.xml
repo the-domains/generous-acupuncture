@@ -4,8 +4,15 @@
         <description><![CDATA[Generous Acupuncture]]></description>
         <link>http://www.generousacupuncture.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 01:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 01:33:00 GMT</lastBuildDate>
         <atom:link href="http://www.generousacupuncture.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are in network for the following insurance providers:]]></title>
+            <description><![CDATA[<article><h1>We are in network for the following insurance providers:</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/302ecdfb-9c09-40b6-882f-c04c9fd6c43b.jpg"></article>]]></description>
+            <link>http://www.generousacupuncture.com/we-are-in-network-for-the-following-insurance-providers/index.html</link>
+            <guid isPermaLink="false">b142b148-8049-4f96-a45f-a6391b31467d</guid>
+            <pubDate>Mon, 18 Apr 2016 01:32:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a358b0-77f0-421e-ac56-095340eb9bbd.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.generousacupuncture.com/welcome-to-generous-acupuncture/index.html</link>
             <guid isPermaLink="false">91022aaa-cff3-4c7a-a785-de78c0d2f8fe</guid>
             <pubDate>Mon, 18 Apr 2016 01:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are in network for the following insurance providers:]]></title>
-            <description><![CDATA[<article><h1>We are in network for the following insurance providers:</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/302ecdfb-9c09-40b6-882f-c04c9fd6c43b.jpg"></article>]]></description>
-            <link>http://www.generousacupuncture.com/we-are-in-network-for-the-following-insurance-providers/index.html</link>
-            <guid isPermaLink="false">b142b148-8049-4f96-a45f-a6391b31467d</guid>
-            <pubDate>Mon, 18 Apr 2016 01:22:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
