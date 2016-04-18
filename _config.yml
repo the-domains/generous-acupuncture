@@ -1,7 +1,7 @@
 name: Generous Acupuncture
 favicon: null
-layout_spectrum: 0.34858
-typography_spectrum: 0.6623839852400124
+layout_spectrum: 0.50993
+typography_spectrum: 0.99712
 title: Generous Acupuncture
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.875
   saturation: 0
-  rhythmicContrast: 0.052090481389313936
+  rhythmicContrast: 1
 purpose: []
