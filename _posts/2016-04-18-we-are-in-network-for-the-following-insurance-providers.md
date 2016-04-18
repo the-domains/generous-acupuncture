@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T01:22:33.486Z'
-dateModified: '2016-04-18T01:20:32.163Z'
+datePublished: '2016-04-18T01:32:23.152Z'
+dateModified: '2016-04-18T01:27:38.522Z'
 title: 'We are in network for the following insurance providers:'
 author: []
 sourcePath: _posts/2016-04-18-we-are-in-network-for-the-following-insurance-providers.md
